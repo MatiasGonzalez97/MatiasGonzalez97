@@ -27,4 +27,5 @@
 <a href="https://symfony.es/"><img alt="Symfony" src="https://img.shields.io/badge/-Symfony-purple"></a>
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/-HTML-white"></a>
 <a href=""><img alt="CSS" src="https://img.shields.io/badge/-CSS-blue"></a>
+<a href=""><img alt="jQuery" src="https://img.shields.io/badge/-Jquery-yellowgreen"></a>
 
