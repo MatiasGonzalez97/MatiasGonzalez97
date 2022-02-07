@@ -15,6 +15,7 @@
 - 📆 Mi perfil actual es de dev backend, pero anteriormente he realizado trabajos como fullstack. Actualmente estoy trabajando y perfeccionando mi stack backend, realizando API's y desarrollos de la parte del back de sitios web.
 - 👨‍🎓 Estudiante autodidacta y próximamente estudiante de tecnicatura de software
 - 💻 Me gusta estar al tanto de las novedades de lenguajes de programación e ir capacitandome, últimamente estuve realizando pequeños proyectos en Node+Express para poder capacitarme en tecnologias JS del lado del servidor.
+- 
 -🎢 Hoy me encuentro como desarrollador back, pero siempre abierto a aprender distintas tecnologías que me permitan aprender y crecer tanto profesional como personalmente
 
 <h2> Principales tecnologías con las que trabajo <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
