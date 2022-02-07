@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenidos+a+mi+GitHub!;Me+llamo+Matias+y+soy+desarrollador+back-end+++;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bienvenidos+a+mi+GitHub!;Me+llamo+Matias!;Soy+desarrollador+back-end+++;" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/matias-gonzalez97/" target="_blank">
