@@ -12,6 +12,7 @@
 
 - 👋 Hola! Soy Matias.
 - 💼 Soy un desarrollador backend, actualmente trabajando en ITPatagonia.
+- 📆 Mi perfil actual es de dev backend, pero anteriormente he realizado trabajo como fullstack, tocando sitios de front y back para luego perfeccionarme en solamente la parte backend, realizando API's y desarrollos de la parte del back de varios sitios. 
 - 👨‍🎓 Estudiante autodidacta y próximamente estudiante de tecnicatura de software
 - 💻 Me gusta estar al tanto de las novedades de lenguajes de programación e ir capacitandome, últimamente estuve realizando pequeños proyectos en Node+Express para poder capacitarme en tecnologias JS del lado del servidor.
 
