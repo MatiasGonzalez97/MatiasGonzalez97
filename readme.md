@@ -18,7 +18,7 @@
 <h2> Principales tecnologías con las que trabajo <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg"></a>
 
    <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
