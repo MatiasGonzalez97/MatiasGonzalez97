@@ -7,7 +7,7 @@
 </p>
 
    <a href="https://www.linkedin.com/in/matias-gonzalez97/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img target="_blank" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 
 - 👋 Hola! Soy Matias.
