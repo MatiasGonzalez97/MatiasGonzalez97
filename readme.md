@@ -19,16 +19,9 @@
 
 
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-Mysql-blue"></a>
-
-   <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-blue">
-  </a>
-   <a href="https://www.javascript.com/" target="_blank">
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-orange">
-  </a>
-   <a href="https://nodejs.org/es/" target="_blank">
-    <img alt="Node" src="https://img.shields.io/badge/-NodeJS-green">
-  </a>
+<a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/-PHP-blue"></a>
+<a href="https://www.javascript.com/" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-orange"></a>
+<a href="https://nodejs.org/es/" target="_blank"><img alt="Node" src="https://img.shields.io/badge/-NodeJS-green"></a>
 <a href="https://expressjs.com/es/"><img alt="Express" src="https://img.shields.io/badge/-Express-lightgrey"></a>
 <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-red"></a>
 <a href="https://symfony.es/"><img alt="Symfony" src="https://img.shields.io/badge/-Symfony-purple"></a>
