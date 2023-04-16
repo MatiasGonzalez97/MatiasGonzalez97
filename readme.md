@@ -11,7 +11,7 @@
   </a>   
 
 - 👋 Hola! Soy Matias.
-- 💼 Soy un desarrollador backend, actualmente trabajando en ITPatagonia.
+- 💼 Soy un desarrollador backend, actualmente trabajando en Pickit.
 - 📆 Mi perfil actual es de dev backend, pero anteriormente he realizado trabajos como fullstack. Actualmente estoy trabajando y perfeccionando mi stack backend, realizando API's y desarrollos de la parte del back de sitios web.
 - 👨‍🎓 Estudiante de tecnicatura de software
 - 💻 Me gusta estar al tanto de las novedades de lenguajes de programación e ir capacitandome, últimamente estuve realizando pequeños proyectos en Node+Express para poder capacitarme en tecnologias JS del lado del servidor.
