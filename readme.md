@@ -14,7 +14,7 @@
 - 💼 Soy un desarrollador backend, actualmente trabajando en Pickit.
 - 📆 Mi perfil actual es de dev backend, pero anteriormente he realizado trabajos como fullstack. Actualmente estoy trabajando y perfeccionando mi stack backend, realizando API's y desarrollos de la parte del back de sitios web con arquitecturas orientadas a microsevicios.
 - 👨‍🎓 Estudiante de tecnicatura de software
-- 💻 Me gusta estar al tanto de las novedades de lenguajes de programación e ir capacitandome, últimamente estuve realizando pequeños proyectos en Node+Express para poder capacitarme en tecnologias JS del lado del servidor.
+- 💻 Me gusta estar al tanto de las novedades de lenguajes de programación e ir capacitandome, últimamente estuve realizando cursos de data science y GO para fortalecer mis conocimientos y al mismo tiempo aprender cosas nuevas.
 - 🎢 Hoy me encuentro como desarrollador back, pero estoy siempre dispuesto a aprender distintas tecnologías, dado que también es una de las cosas que me gusta hacer 😎.
 
 <h2> Principales tecnologías con las que trabajo <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
